@@ -1,0 +1,9 @@
+com/mycompany/mavenproject1/Repository/BookRepository.class
+com/mycompany/mavenproject1/Repository/AuthorRepository.class
+com/mycompany/mavenproject1/Controller/AuthorController.class
+com/mycompany/mavenproject1/Entity/Author.class
+com/mycompany/mavenproject1/Entity/Book.class
+com/mycompany/mavenproject1/Service/BookService.class
+com/mycompany/mavenproject1/Controller/BookController.class
+com/mycompany/mavenproject1/Mavenproject1.class
+com/mycompany/mavenproject1/Service/AuthorService.class
